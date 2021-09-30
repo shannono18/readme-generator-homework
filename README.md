@@ -4,7 +4,7 @@
 <img src="README_Screenshot.png" alt="Demo">
 
   ## Table of Contents
-  1. <a href="#desc">Description</a>
+  1. <a href="#description">Description</a>
   2. <a href="#install">Installation Instructions</a>
   3. <a href="#usage">Usage Information</a>
   4. <a href="#contribution">Contribution Guidelines</a>
@@ -34,4 +34,5 @@
   <a href='https://github.com/shannono18'>shannono18</a>
   shannono18@hotmail.com
   
- 
+ ## Github Repo
+ https://github.com/shannono18/readme-generator-homework
