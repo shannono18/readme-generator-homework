@@ -1,7 +1,7 @@
 # README GENERATOR ([![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT))
   
 ## Demo
-https://giphy.com/embed/2nKZOjbRqSfdttovqA
+http://www.giphy.com/gifs/JxyqMyZCYGcHqhl0qj
 
   ## Table of Contents
   1. <a href="#desc">Description</a>
